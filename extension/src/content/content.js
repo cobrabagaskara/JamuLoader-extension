@@ -1,5 +1,5 @@
 // ============================================================
-// ModLoader — Content Script
+// Jamu Loader — Content Script
 // Lightweight relay: notifies background of page load,
 // can also receive commands from page if needed.
 // ============================================================
