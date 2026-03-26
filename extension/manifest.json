@@ -14,7 +14,7 @@
       "16": "icons/icon16.png",
       "48": "icons/icon48.png"
     },
-    "default_title": "ModLoader"
+    "default_title": "Jamu Loader"
   },
   "background": {
     "service_worker": "src/background/background.js",
